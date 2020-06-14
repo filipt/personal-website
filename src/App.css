@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+
+html { 
+  margin-bottom: 65px;
+
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
