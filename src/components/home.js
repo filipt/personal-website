@@ -9,6 +9,7 @@ wlessin.com
 {/* 
 Notes & To-dos:/
 - check on https
+- write a blog on the habits you're trying to build out and rhe scheduule?
 - figure out how to make a subscription list?
 - view counter for the website
 - blog read counter
@@ -19,6 +20,7 @@ Notes & To-dos:/
 - write out a couple essays.
 - add links everywhere you think there should ultimately be a link. name them "placeholder"
 - add colors to experiences 
+- make a diet plannign thing
 - on "stats" section
         Add switching to metric 
         Add more stats
