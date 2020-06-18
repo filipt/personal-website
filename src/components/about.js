@@ -31,7 +31,7 @@ export default class About extends Component {
 
         <p>I then started a new business with one of my investors from Point. We essentially started automating digital make-up for Hollywood. Things were going great (signed a letter-of-intent within 2 weeks of starting), but the COVID thing happened, and we had to stop. </p>
 
-        <p>I then got hired by Yin Wu at Pulley, and I'm super stoked to see where we can take this company together! If you want a more in-depth walk through of what happened in my life, go <a href = "experience">here</a>.</p> 
+        <p>I then got hired by Yin Wu at Pulley, and I'm super stoked to see where we can take this company together! If you want a more in-depth walk through of what happened in my life, go <a href = "#experience">here</a>.</p> 
 
         <h4>Countries I've been in</h4>
         {/* <p>To-do: display which countries you've lived in, how many you've visited, and where you're planning on going. Perhaps I can do it onClick?</p> */} 
