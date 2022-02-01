@@ -22,31 +22,16 @@ class App extends Component {
   render(  ) {
 
     return (     
-      //  <BrowserRouter basename={process.env.PUBLIC_URL}>
-      //  <div>
-      //   <Menu />       
-      //       <Switch>
-      //        <Route path="/about" component={About}/>
-      //        <Route path="/projects" component={Projects}/>
-      //        <Route path="/experience" component={Experience}/>
-      //        <Route path="/essays" component={Essays}/>
-      //        <Route path="/contact" component={Contact}/>
-      //        <Route path="/placeholder" component={Placeholder}/>
-      //        <Route path= "/" component={Home} exact/>
 
-      //      </Switch>
-      //   </div> 
-      // <Footer />
-      // </BrowserRouter>
       <HashRouter basename="/">
           <Menu />
         <div>        
-              <Route path="/about" component={About}/>
-              <Route path="/projects" component={Projects}/>
-              <Route path="/experience" component={Experience}/>
-              <Route path="/essays" component={Essays}/>
-              <Route path="/contact" component={Contact}/>
-              <Route path="/placeholder" component={Placeholder}/>
+              // <Route path="/about" component={About}/>
+              // <Route path="/projects" component={Projects}/>
+              // <Route path="/experience" component={Experience}/>
+              // <Route path="/essays" component={Essays}/>
+              // <Route path="/contact" component={Contact}/>
+              // <Route path="/placeholder" component={Placeholder}/>
               <Route path= "/" component={Home} exact/>
         </div>
         <Footer />
